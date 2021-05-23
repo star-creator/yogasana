@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yogasana/static/css/main.b3666955.chunk.css",
+    "main.js": "/yogasana/static/js/main.10734327.chunk.js",
+    "main.js.map": "/yogasana/static/js/main.10734327.chunk.js.map",
+    "runtime-main.js": "/yogasana/static/js/runtime-main.f15b0bb4.js",
+    "runtime-main.js.map": "/yogasana/static/js/runtime-main.f15b0bb4.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/yogasana/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.828c6f2a.chunk.js": "/yogasana/static/js/2.828c6f2a.chunk.js",
+    "static/js/2.828c6f2a.chunk.js.map": "/yogasana/static/js/2.828c6f2a.chunk.js.map",
+    "static/js/3.ccd5b46c.chunk.js": "/yogasana/static/js/3.ccd5b46c.chunk.js",
+    "static/js/3.ccd5b46c.chunk.js.map": "/yogasana/static/js/3.ccd5b46c.chunk.js.map",
+    "index.html": "/yogasana/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/yogasana/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.b3666955.chunk.css.map": "/yogasana/static/css/main.b3666955.chunk.css.map",
+    "static/js/2.828c6f2a.chunk.js.LICENSE.txt": "/yogasana/static/js/2.828c6f2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f15b0bb4.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.828c6f2a.chunk.js",
+    "static/css/main.b3666955.chunk.css",
+    "static/js/main.10734327.chunk.js"
+  ]
+}
